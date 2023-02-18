@@ -1,0 +1,16 @@
+
+body{
+    background-color: goldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    size: 24pxs ;
+}
+.table, th, td {
+    border:3px solid teal;
+ }
+
+.button{
+    background-color: blueviolet;
+    color : black;
+}
